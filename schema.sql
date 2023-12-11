@@ -1,3 +1,5 @@
+CREATE DATABASE EstateSphere;
+
 CREATE TABLE Property (
     property_id INT PRIMARY KEY,
     property_type VARCHAR(50),
